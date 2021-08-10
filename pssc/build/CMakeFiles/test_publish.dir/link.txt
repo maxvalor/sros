@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/test_publish.dir/src/test_publish.cpp.o CMakeFiles/test_publish.dir/src/pssc/Node.cpp.o CMakeFiles/test_publish.dir/src/tcp/TCPConnection.cpp.o CMakeFiles/test_publish.dir/src/tcp/TCPClient.cpp.o  -o test_publish -lpthread -lglog -lboost_system 

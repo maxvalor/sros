@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/pssc_core.dir/src/pssc/test_core.cpp.o CMakeFiles/pssc_core.dir/src/pssc/Core.cpp.o CMakeFiles/pssc_core.dir/src/tcp/TCPConnection.cpp.o CMakeFiles/pssc_core.dir/src/tcp/TCPServer.cpp.o  -o pssc_core -lpthread -lglog -lboost_system 

@@ -1,0 +1,9 @@
+/home/ubuntu/maxvalor/doggy/pssc/build/CMakeFiles/edit_cache.dir
+/home/ubuntu/maxvalor/doggy/pssc/build/CMakeFiles/rebuild_cache.dir
+/home/ubuntu/maxvalor/doggy/pssc/build/CMakeFiles/test_call.dir
+/home/ubuntu/maxvalor/doggy/pssc/build/CMakeFiles/pssc_core.dir
+/home/ubuntu/maxvalor/doggy/pssc/build/CMakeFiles/test_service.dir
+/home/ubuntu/maxvalor/doggy/pssc/build/CMakeFiles/pssc.dir
+/home/ubuntu/maxvalor/doggy/pssc/build/CMakeFiles/test_client.dir
+/home/ubuntu/maxvalor/doggy/pssc/build/CMakeFiles/test_subscriber.dir
+/home/ubuntu/maxvalor/doggy/pssc/build/CMakeFiles/test_publish.dir

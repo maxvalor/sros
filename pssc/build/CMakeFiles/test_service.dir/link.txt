@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/test_service.dir/src/test_service.cpp.o CMakeFiles/test_service.dir/src/pssc/Node.cpp.o CMakeFiles/test_service.dir/src/tcp/TCPConnection.cpp.o CMakeFiles/test_service.dir/src/tcp/TCPClient.cpp.o  -o test_service -lpthread -lglog -lboost_system 
